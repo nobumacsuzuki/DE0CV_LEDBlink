@@ -1,0 +1,5 @@
+db/
+incremental_db/
+outputfiles/
+simulation/
+c5_pin_model_dump.txt
